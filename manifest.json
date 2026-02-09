@@ -1,0 +1,21 @@
+{
+    "name": "MADERAS DR - Cotizador",
+    "short_name": "MADERAS DR",
+    "description": "Aplicación para generar cotizaciones de productos de madera.",
+    "start_url": "https://nottechguy.github.io/maderas-dr/",
+    "display": "standalone",
+    "background_color": "#ecf0f1",
+    "theme_color": "#2c3e50",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
