@@ -3,7 +3,7 @@
 var db; // Variable para mantener la instancia de la base de datos
 
 function openDB(callback) {
-    var request = indexedDB.open('MadereriaDB', 1);
+    var request = indexedDB.open('MaderasDRDB', 1);
 
     request.onerror = function(event) {
         console.error("Error al abrir la base de datos:", event.target.errorCode);
